@@ -1598,7 +1598,7 @@ t1.MakeWindow = function(p82, p83)
     AnimateBg()
 	v70("Gradient", main, {
 		Rotation = 45,
-		Transparency = NumberSequence.new(0.8)
+		Transparency = NumberSequence.new(0.5)
 	})
 	v58(main)
 
